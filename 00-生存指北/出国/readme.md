@@ -14,5 +14,8 @@
 我们希望这里能够有JLU自动化出国er想找寻的一切。
 
 ## [shem](./shem-CA)
-- 申请条件： GPA：90，有交流，，无论文，有实习，有国奖;
-- offer情况：Magcil, UBC, UofA;
+- 申请条件： GPA：90，有交流，无论文，有实习，有国奖；
+- offer情况：3 offer, 0 rejected;
+    - MSc：McGill 全奖, UBC 全奖, UofA 全奖；
+    - PHD：未申请；
+- 最终去向：未定；
